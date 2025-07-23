@@ -1,0 +1,141 @@
+File name	Condition	Project	Strain	Mode of operation	Media	Limitation	C-source	Growth rate	DO	pH	Temperature
+20210204-YL-CN-1	Glucose_Nlimit	Batch_Shaken	W29	Shaken culture	Delft-N limited	Nitrogen	Glucose	0.3	High	6	30
+20210204-YL-CN-2	Glucose_Nlimit	Batch_Shaken	W29	Shaken culture	Delft-N limited	Nitrogen	Glucose	0.3	High	6	30
+20210204-YL-fill-1	Glucose_lowDO	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Low	6	30
+20210204-YL-fill-2	Glucose_lowDO	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Low	6	30
+20210204-YL-ref-1	Glucose_shaken_reference	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	High	6	30
+20210204-YL-ref-2	Glucose_shaken_reference	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	High	6	30
+M1-V01-1A	High glucose_highDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	High	3	30
+M1-V02-1A	High glucose_mediumDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	Medium	3	30
+M1-V03-1A	High glucose_lowDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	Low	3	30
+M2-V01-1A	High glucose_highDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	High	6	30
+M2-V02-1A	High glucose_mediumDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	Medium	6	30
+M2-V03-1A	High glucose_lowDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	Low	6	30
+M3-V01-1A	Glucose_Nlimit_pH3	Batch_Shaken	W29	Shaken culture	Delft-N limited	Nitrogen	Glucose	0.3	High	3	30
+M4-V01-1A	Glucose_Nlimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-N limited	Nitrogen	Glucose	0.3	High	6	30
+M5-V01-1A	Glucose_Plimit_pH3	Batch_Shaken	W29	Shaken culture	Delft-P limited	Phosphorus	Glucose	0.3	High	3	30
+M6-V01-1A	Glucose_Plimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-P limited	Phosphorus	Glucose	0.3	High	6	30
+M7-V01-1A	Glucose_Mglimit_pH3	Batch_Shaken	W29	Shaken culture	Delft-Mg limited	Magnesium	Glucose	0.3	High	3	30
+M8-V01-1A	Glucose_Mglimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-Mg limited	Magnesium	Glucose	0.3	High	6	30
+M9-V01-1A	Glucose_highDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	High	3	30
+M9-V02-1A	Glucose_mediumDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Medium	3	30
+M9-V03-1A	Glucose_lowDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Low	3	30
+M10-V01-1A	Glucose_highDO_ph6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	High	6	30
+M10-V02-1A	Glucose_mediumDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Medium	6	30
+M10-V03-1A	Glucose_lowDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Low	6	30
+M11-V01-1A	High glycerol_pH6	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glycerol	0.3	High	6	30
+M12-V01-1A	Glycerol_Nlimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-N limited	Nitrogen	Glycerol	0.3	High	6	30
+M13-V01-1A	Glycerol_Plimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-P limited	Phosphorus	Glycerol	0.3	High	6	30
+M14-V01-1A	Glycerol_Mglimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-Mg limited	Magnesium	Glycerol	0.3	High	6	30
+M15-V01-1A	Glycerol_highDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glycerol	0.3	High	6	30
+M15-V03-1A	Glycerol_lowDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glycerol	0.3	Low	6	30
+M1-V01-2A	High glucose_highDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	High	3	30
+M1-V02-2A	High glucose_mediumDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	Medium	3	30
+M1-V03-2A	High glucose_lowDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	Low	3	30
+M2-V01-2A	High glucose_highDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	High	6	30
+M2-V02-2A	High glucose_mediumDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	Medium	6	30
+M2-V03-2A	High glucose_lowDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glucose	0.3	Low	6	30
+M3-V01-2A	Glucose_Nlimit_pH3	Batch_Shaken	W29	Shaken culture	Delft-N limited	Nitrogen	Glucose	0.3	High	3	30
+M4-V01-2A	Glucose_Nlimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-N limited	Nitrogen	Glucose	0.3	High	6	30
+M5-V01-2A	Glucose_Plimit_pH3	Batch_Shaken	W29	Shaken culture	Delft-P limited	Phosphorus	Glucose	0.3	High	3	30
+M6-V01-2A	Glucose_Plimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-P limited	Phosphorus	Glucose	0.3	High	6	30
+M7-V01-2A	Glucose_Mglimit_pH3	Batch_Shaken	W29	Shaken culture	Delft-Mg limited	Magnesium	Glucose	0.3	High	3	30
+M8-V01-2A	Glucose_Mglimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-Mg limited	Magnesium	Glucose	0.3	High	6	30
+M9-V01-2A	Glucose_highDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	High	3	30
+M9-V02-2A	Glucose_mediumDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Medium	3	30
+M9-V03-2A	Glucose_lowDO_pH3	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Low	3	30
+M10-V01-2A	Glucose_highDO_ph6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	High	6	30
+M10-V02-2A	Glucose_mediumDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Medium	6	30
+M10-V03-2A	Glucose_lowDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glucose	0.3	Low	6	30
+M11-V01-2A	High glycerol_pH6	Batch_Shaken	W29	Shaken culture	Delft	High Carbon	Glycerol	0.3	High	6	30
+M12-V01-2A	Glycerol_Nlimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-N limited	Nitrogen	Glycerol	0.3	High	6	30
+M13-V01-2A	Glycerol_Plimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-P limited	Phosphorus	Glycerol	0.3	High	6	30
+M14-V01-2A	Glycerol_Mglimit_pH6	Batch_Shaken	W29	Shaken culture	Delft-Mg limited	Magnesium	Glycerol	0.3	High	6	30
+M15-V01-2A	Glycerol_highDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glycerol	0.3	High	6	30
+M15-V03-2A	Glycerol_lowDO_pH6	Batch_Shaken	W29	Shaken culture	Delft	Carbon	Glycerol	0.3	Low	6	30
+W29 S02 1 trans	µ0	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0	40	6	30
+W29 S02 2 trans	µ0	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0	40	6	30
+W29 S03 1 trans	µ0.05	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.05	40	6	30
+W29 S03 2 trans	µ0.05	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.05	40	6	30
+W29 S04 1 trans	µ0.1	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.1	40	6	30
+W29 S04 2 trans	µ0.1	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.1	40	6	30
+W29 S05 1 trans	µ0.15	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.15	40	6	30
+W29 S05 2 trans	µ0.15	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.15	40	6	30
+W29 S06 1 trans	µ0.2	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.2	40	6	30
+W29 S06 2 trans	µ0.2	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.2	40	6	30
+W29 S07 1 trans	µ0.25	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.25	40	6	30
+W29 S07 2 trans	µ0.25	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.25	40	6	30
+W29 S08 1 trans	µ0.3	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.3	40	6	30
+W29 S08 2 trans	µ0.3	Growth_Variance_W29	W29	Continuous 	Delft	Carbon	Glucose	0.3	40	6	30
+SUC S02 1 trans	µ0_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0	40	6	30
+SUC S02 2 trans	µ0_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0	40	6	30
+SUC S03 1 trans	µ0.05_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.05	40	6	30
+SUC S03 2 trans	µ0.05_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.05	40	6	30
+SUC S04 1 trans	µ0.075_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.075	40	6	30
+SUC S04 2 trans	µ0.075_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.075	40	6	30
+SUC S05 1 trans	µ0.1_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.1	40	6	30
+SUC S05 2 trans	µ0.1_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.1	40	6	30
+SUC S06 1 trans	µ0.125_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.125	40	6	30
+SUC S06 2 trans	µ0.125_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.125	40	6	30
+SUC S07 1 trans	µ0.15_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.15	40	6	30
+SUC S07 2 trans	µ0.15_ST8712	Growth_Variance_ST8712	ST8712	Continuous 	Delft	Carbon	Glucose	0.15	40	6	30
+PD017 A1 S02 #1	µ0.1_DO50	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	50	6	30
+PD017 A1 S02 #2	µ0.1_DO50	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	50	6	30
+PD017 A1 S03 #1	µ0.1_DO25	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	25	6	30
+PD017 A1 S03 #2	µ0.1_DO35	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	25	6	30
+PD017 A1 S04 #1	µ0.1_DO10	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	10	6	30
+PD017 A1 S04 #2	µ0.1_DO10	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	10	6	30
+PD017 A1 S05 #1	µ0.1_DO5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	5	6	30
+PD017 A1 S05 #2	µ0.1_DO5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	5	6	30
+PD017 A1 S06 #1	µ0.1_DO2.5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	2.5	6	30
+PD017 A1 S06 #2	µ0.1_DO2.5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	2.5	6	30
+PD017 A1 S07 #1	µ0.1_DO0	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	0	6	30
+PD017 A1 S07 #2	µ0.1_DO0	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.1	0	6	30
+PD017 A3 S02 #1	µ0.2_DO50	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	50	6	30
+PD017 A3 S02 #2	µ0.2_DO50	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	50	6	30
+PD017 A3 S03 #1	µ0.2_DO25	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	25	6	30
+PD017 A3 S03 #2	µ0.2_DO25	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	25	6	30
+PD017 A3 S04 #1	µ0.2_DO10	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	10	6	30
+PD017 A3 S04 #2	µ0.2_DO10	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	10	6	30
+PD017 A3 S05 #1	µ0.2_DO5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	5	6	30
+PD017 A3 S05 #2	µ0.2_DO5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	5	6	30
+PD017 A3 S06 #1	µ0.2_DO2.5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	2.5	6	30
+PD017 A3 S06 #2	µ0.2_DO2.5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	2.5	6	30
+PD017 A3 S07 #1	µ0.2_DO0	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	0	6	30
+PD017 A3 S07 #2	µ0.2_DO0	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.2	0	6	30
+PD019 A1 S02 #1	µ0.05_DO50	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	50	6	30
+PD019 A1 S02 #2	µ0.05_DO50	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	50	6	30
+PD019 A1 S03 #1	µ0.05_DO25	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	25	6	30
+PD019 A1 S03 #2	µ0.05_DO35	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	25	6	30
+PD019 A1 S04 #1	µ0.05_DO10	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	10	6	30
+PD019 A1 S04 #2	µ0.05_DO10	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	10	6	30
+PD019 A1 S05 #1	µ0.05_DO5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	5	6	30
+PD019 A1 S05 #2	µ0.05_DO5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	5	6	30
+PD019 A1 S06 #1	µ0.05_DO2.5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	2.5	6	30
+PD019 A1 S06 #2	µ0.05_DO2.5	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	2.5	6	30
+PD019 A1 S07 #1	µ0.05_DO0	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	0	6	30
+PD019 A1 S07 #2	µ0.05_DO0	O2_oscillation	W29	Continuous 	Delft	Carbon	Glucose	0.05	0	6	30
+R1_S02_#1	CO2_10%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S02_#2	CO2_10%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S03_#1	CO2_20%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S03_#2	CO2_20%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S04_#1	CO2_30%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S04_#2	CO2_30%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S05_#1	CO2_40%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S05_#2	CO2_40%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S06_#1	CO2_50%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S06_#2	CO2_50%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S08_#1	CO2_0%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R1_S08_#2	CO2_0%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S02_#1	CO2_10%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S02_#2	CO2_10%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S03_#1	CO2_20%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S03_#2	CO2_20%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S04_#1	CO2_30%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S04_#2	CO2_30%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S05_#1	CO2_40%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S05_#2	CO2_40%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S06_#1	CO2_50%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S06_#2	CO2_50%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S08_#1	CO2_0%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30
+R3_S08_#2	CO2_0%	CO2_oscillation	W29	Continuous	Delft	None	Glucose	0.1	25	N.A	30

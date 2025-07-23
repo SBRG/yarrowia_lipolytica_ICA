@@ -1,0 +1,181 @@
+	strain	modification	project	condition	reference_condition	mode	media	temperature	passed_fastqc	passed_reads_mapped_to_CDS	passed_global_correlation	full_name	passed_replicate_correlations	passed_curation
+yl_000	W29	WT	Bram_RNASeq	Glucose_Nlimit	µ0.1_DO25	Shaken culture	Delft-N limited	30.0	True	True	True	Bram_RNASeq:Glucose_Nlimit	True	True
+yl_001	W29	WT	Bram_RNASeq	Glucose_Nlimit	µ0.1_DO25	Shaken culture	Delft-N limited	30.0	True	True	True	Bram_RNASeq:Glucose_Nlimit	True	True
+yl_002	W29	WT	Bram_RNASeq	Glucose_lowDO	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_lowDO	True	True
+yl_003	W29	WT	Bram_RNASeq	Glucose_lowDO	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_lowDO	True	True
+yl_004	W29	WT	Bram_RNASeq	Glucose_shaken_reference	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_shaken_reference	True	True
+yl_005	W29	WT	Bram_RNASeq	Glucose_shaken_reference	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_shaken_reference	True	True
+yl_006	W29	WT	Bram_RNASeq	High glucose_mediumDO_pH3	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_mediumDO_pH3	True	True
+yl_007	W29	WT	Bram_RNASeq	High glucose_lowDO_pH3	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_lowDO_pH3	True	True
+yl_008	W29	WT	Bram_RNASeq	High glucose_highDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_highDO_pH6	True	True
+yl_009	W29	WT	Bram_RNASeq	High glucose_mediumDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_mediumDO_pH6	True	True
+yl_010	W29	WT	Bram_RNASeq	High glucose_lowDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_lowDO_pH6	True	True
+yl_012	W29	WT	Bram_RNASeq	Glucose_Nlimit_pH6	µ0.1_DO25	Shaken culture	Delft-N limited	30.0	True	True	True	Bram_RNASeq:Glucose_Nlimit_pH6	True	True
+yl_013	W29	WT	Bram_RNASeq	Glucose_Plimit_pH6	µ0.1_DO25	Shaken culture	Delft-P limited	30.0	True	True	True	Bram_RNASeq:Glucose_Plimit_pH6	True	True
+yl_014	W29	WT	Bram_RNASeq	Glucose_Mglimit_pH3	µ0.1_DO25	Shaken culture	Delft-Mg limited	30.0	True	True	True	Bram_RNASeq:Glucose_Mglimit_pH3	True	True
+yl_015	W29	WT	Bram_RNASeq	Glucose_Mglimit_pH6	µ0.1_DO25	Shaken culture	Delft-Mg limited	30.0	True	True	True	Bram_RNASeq:Glucose_Mglimit_pH6	True	True
+yl_017	W29	WT	Bram_RNASeq	Glucose_mediumDO_pH3	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_mediumDO_pH3	True	True
+yl_018	W29	WT	Bram_RNASeq	Glucose_lowDO_pH3	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_lowDO_pH3	True	True
+yl_019	W29	WT	Bram_RNASeq	Glucose_highDO_ph6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_highDO_ph6	True	True
+yl_020	W29	WT	Bram_RNASeq	Glucose_mediumDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_mediumDO_pH6	True	True
+yl_022	W29	WT	Bram_RNASeq	High glycerol_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glycerol_pH6	True	True
+yl_023	W29	WT	Bram_RNASeq	Glycerol_Nlimit_pH6	µ0.1_DO25	Shaken culture	Delft-N limited	30.0	True	True	True	Bram_RNASeq:Glycerol_Nlimit_pH6	True	True
+yl_024	W29	WT	Bram_RNASeq	Glycerol_Plimit_pH6	µ0.1_DO25	Shaken culture	Delft-P limited	30.0	True	True	True	Bram_RNASeq:Glycerol_Plimit_pH6	True	True
+yl_025	W29	WT	Bram_RNASeq	Glycerol_highDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glycerol_highDO_pH6	True	True
+yl_026	W29	WT	Bram_RNASeq	Glycerol_lowDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glycerol_lowDO_pH6	True	True
+yl_028	W29	WT	Bram_RNASeq	High glucose_mediumDO_pH3	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_mediumDO_pH3	True	True
+yl_029	W29	WT	Bram_RNASeq	High glucose_lowDO_pH3	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_lowDO_pH3	True	True
+yl_030	W29	WT	Bram_RNASeq	High glucose_highDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_highDO_pH6	True	True
+yl_031	W29	WT	Bram_RNASeq	High glucose_mediumDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_mediumDO_pH6	True	True
+yl_032	W29	WT	Bram_RNASeq	High glucose_lowDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glucose_lowDO_pH6	True	True
+yl_034	W29	WT	Bram_RNASeq	Glucose_Nlimit_pH6	µ0.1_DO25	Shaken culture	Delft-N limited	30.0	True	True	True	Bram_RNASeq:Glucose_Nlimit_pH6	True	True
+yl_035	W29	WT	Bram_RNASeq	Glucose_Plimit_pH6	µ0.1_DO25	Shaken culture	Delft-P limited	30.0	True	True	True	Bram_RNASeq:Glucose_Plimit_pH6	True	True
+yl_036	W29	WT	Bram_RNASeq	Glucose_Mglimit_pH3	µ0.1_DO25	Shaken culture	Delft-Mg limited	30.0	True	True	True	Bram_RNASeq:Glucose_Mglimit_pH3	True	True
+yl_037	W29	WT	Bram_RNASeq	Glucose_Mglimit_pH6	µ0.1_DO25	Shaken culture	Delft-Mg limited	30.0	True	True	True	Bram_RNASeq:Glucose_Mglimit_pH6	True	True
+yl_039	W29	WT	Bram_RNASeq	Glucose_mediumDO_pH3	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_mediumDO_pH3	True	True
+yl_040	W29	WT	Bram_RNASeq	Glucose_lowDO_pH3	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_lowDO_pH3	True	True
+yl_041	W29	WT	Bram_RNASeq	Glucose_highDO_ph6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_highDO_ph6	True	True
+yl_042	W29	WT	Bram_RNASeq	Glucose_mediumDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glucose_mediumDO_pH6	True	True
+yl_044	W29	WT	Bram_RNASeq	High glycerol_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:High glycerol_pH6	True	True
+yl_045	W29	WT	Bram_RNASeq	Glycerol_Nlimit_pH6	µ0.1_DO25	Shaken culture	Delft-N limited	30.0	True	True	True	Bram_RNASeq:Glycerol_Nlimit_pH6	True	True
+yl_046	W29	WT	Bram_RNASeq	Glycerol_Plimit_pH6	µ0.1_DO25	Shaken culture	Delft-P limited	30.0	True	True	True	Bram_RNASeq:Glycerol_Plimit_pH6	True	True
+yl_048	W29	WT	Bram_RNASeq	Glycerol_highDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glycerol_highDO_pH6	True	True
+yl_049	W29	WT	Bram_RNASeq	Glycerol_lowDO_pH6	µ0.1_DO25	Shaken culture	Delft	30.0	True	True	True	Bram_RNASeq:Glycerol_lowDO_pH6	True	True
+yl_050	W29	WT	Bram_RNASeq	µ0	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0	True	True
+yl_051	W29	WT	Bram_RNASeq	µ0	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0	True	True
+yl_052	W29	WT	Bram_RNASeq	µ0.05	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05	True	True
+yl_053	W29	WT	Bram_RNASeq	µ0.05	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05	True	True
+yl_054	W29	WT	Bram_RNASeq	µ0.1	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1	True	True
+yl_055	W29	WT	Bram_RNASeq	µ0.1	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1	True	True
+yl_056	W29	WT	Bram_RNASeq	µ0.15	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.15	True	True
+yl_057	W29	WT	Bram_RNASeq	µ0.15	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.15	True	True
+yl_058	W29	WT	Bram_RNASeq	µ0.2	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2	True	True
+yl_059	W29	WT	Bram_RNASeq	µ0.2	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2	True	True
+yl_060	W29	WT	Bram_RNASeq	µ0.25	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.25	True	True
+yl_061	W29	WT	Bram_RNASeq	µ0.25	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.25	True	True
+yl_064	ST8712	WT	Bram_RNASeq	µ0_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0_ST8712	True	True
+yl_065	ST8712	WT	Bram_RNASeq	µ0_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0_ST8712	True	True
+yl_066	ST8712	WT	Bram_RNASeq	µ0.05_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_ST8712	True	True
+yl_067	ST8712	WT	Bram_RNASeq	µ0.05_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_ST8712	True	True
+yl_068	ST8712	WT	Bram_RNASeq	µ0.075_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.075_ST8712	True	True
+yl_069	ST8712	WT	Bram_RNASeq	µ0.075_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.075_ST8712	True	True
+yl_070	ST8712	WT	Bram_RNASeq	µ0.1_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_ST8712	True	True
+yl_071	ST8712	WT	Bram_RNASeq	µ0.1_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_ST8712	True	True
+yl_072	ST8712	WT	Bram_RNASeq	µ0.125_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.125_ST8712	True	True
+yl_073	ST8712	WT	Bram_RNASeq	µ0.125_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.125_ST8712	True	True
+yl_074	ST8712	WT	Bram_RNASeq	µ0.15_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.15_ST8712	True	True
+yl_075	ST8712	WT	Bram_RNASeq	µ0.15_ST8712	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.15_ST8712	True	True
+yl_076	W29	WT	Bram_RNASeq	µ0.1_DO50	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO50	True	True
+yl_077	W29	WT	Bram_RNASeq	µ0.1_DO50	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO50	True	True
+yl_078	W29	WT	Bram_RNASeq	µ0.1_DO25	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO25	True	True
+yl_079	W29	WT	Bram_RNASeq	µ0.1_DO25	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO25	True	True
+yl_080	W29	WT	Bram_RNASeq	µ0.1_DO10	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO10	True	True
+yl_081	W29	WT	Bram_RNASeq	µ0.1_DO10	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO10	True	True
+yl_082	W29	WT	Bram_RNASeq	µ0.1_DO5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO5	True	True
+yl_083	W29	WT	Bram_RNASeq	µ0.1_DO5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO5	True	True
+yl_084	W29	WT	Bram_RNASeq	µ0.1_DO2.5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO2.5	True	True
+yl_085	W29	WT	Bram_RNASeq	µ0.1_DO2.5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO2.5	True	True
+yl_086	W29	WT	Bram_RNASeq	µ0.1_DO0	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO0	True	True
+yl_087	W29	WT	Bram_RNASeq	µ0.1_DO0	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.1_DO0	True	True
+yl_088	W29	WT	Bram_RNASeq	µ0.2_DO50	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO50	True	True
+yl_089	W29	WT	Bram_RNASeq	µ0.2_DO50	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO50	True	True
+yl_090	W29	WT	Bram_RNASeq	µ0.2_DO25	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO25	True	True
+yl_091	W29	WT	Bram_RNASeq	µ0.2_DO25	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO25	True	True
+yl_092	W29	WT	Bram_RNASeq	µ0.2_DO10	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO10	True	True
+yl_093	W29	WT	Bram_RNASeq	µ0.2_DO10	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO10	True	True
+yl_094	W29	WT	Bram_RNASeq	µ0.2_DO5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO5	True	True
+yl_095	W29	WT	Bram_RNASeq	µ0.2_DO5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO5	True	True
+yl_096	W29	WT	Bram_RNASeq	µ0.2_DO2.5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO2.5	True	True
+yl_097	W29	WT	Bram_RNASeq	µ0.2_DO2.5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO2.5	True	True
+yl_098	W29	WT	Bram_RNASeq	µ0.2_DO0	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO0	True	True
+yl_099	W29	WT	Bram_RNASeq	µ0.2_DO0	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.2_DO0	True	True
+yl_100	W29	WT	Bram_RNASeq	µ0.05_DO50	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO50	True	True
+yl_101	W29	WT	Bram_RNASeq	µ0.05_DO50	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO50	True	True
+yl_104	W29	WT	Bram_RNASeq	µ0.05_DO10	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO10	True	True
+yl_105	W29	WT	Bram_RNASeq	µ0.05_DO10	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO10	True	True
+yl_106	W29	WT	Bram_RNASeq	µ0.05_DO5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO5	True	True
+yl_107	W29	WT	Bram_RNASeq	µ0.05_DO5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO5	True	True
+yl_108	W29	WT	Bram_RNASeq	µ0.05_DO2.5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO2.5	True	True
+yl_109	W29	WT	Bram_RNASeq	µ0.05_DO2.5	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO2.5	True	True
+yl_110	W29	WT	Bram_RNASeq	µ0.05_DO0	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO0	True	True
+yl_111	W29	WT	Bram_RNASeq	µ0.05_DO0	µ0.1_DO25	Continuous	Delft	30.0	True	True	True	Bram_RNASeq:µ0.05_DO0	True	True
+yl_154	W29	WT	Environmental stress	Control	Control	Continuous			True	True	True	Environmental stress:Control	True	True
+yl_155	W29	WT	Environmental stress	Control	Control	Continuous			True	True	True	Environmental stress:Control	True	True
+yl_156	W29	WT	Environmental stress	Control	Control	Continuous			True	True	True	Environmental stress:Control	True	True
+yl_157	W29	WT	Environmental stress	Control	Control	Continuous			True	True	True	Environmental stress:Control	True	True
+yl_159	W29	WT	Environmental stress	High temp	Control	Continuous			True	True	True	Environmental stress:High temp	True	True
+yl_160	W29	WT	Environmental stress	High temp	Control	Continuous			True	True	True	Environmental stress:High temp	True	True
+yl_161	W29	WT	Environmental stress	low pH	Control	Continuous			True	True	True	Environmental stress:low pH	True	True
+yl_162	W29	WT	Environmental stress	low pH	Control	Continuous			True	True	True	Environmental stress:low pH	True	True
+yl_163	W29	WT	Environmental stress	low pH	Control	Continuous			True	True	True	Environmental stress:low pH	True	True
+yl_164	W29	WT	Environmental stress	low pH	Control	Continuous			True	True	True	Environmental stress:low pH	True	True
+yl_177	W29	WT	O2_oscillations	Single_oscillation_#1.1_DO40	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_178	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_179	W29	WT	O2_oscillations	Single_oscillation_#1.1_DO40	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_180	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_181	W29	WT	O2_oscillations	Single oscillation_#2.1_DO0	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_182	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_183	W29	WT	O2_oscillations	Single oscillation_#2.1_DO0	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_184	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_185	W29	WT	O2_oscillations	Single oscillation_#3.1_DO34	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_186	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_187	W29	WT	O2_oscillations	Single oscillation_#3.1_DO34	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_188	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_189	W29	WT	O2_oscillations	Single_oscillation_#4.1_DO40	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_190	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_191	W29	WT	O2_oscillations	Single_oscillation_#4.1_DO40	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_192	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_193	W29	WT	O2_oscillations	Repeated_oscillation_#5.1_DO40	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_194	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_195	W29	WT	O2_oscillations	Repeated_oscillation_#5.1_DO40	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_196	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_197	W29	WT	O2_oscillations	Repeated_oscillation_#6.1_DO0	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_198	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_199	W29	WT	O2_oscillations	Repeated_oscillation_#6.1_DO0	Single_oscillation_#1.1_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_200	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_201	W29	WT	O2_oscillations	Single_oscillation_#1.2_DO40	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_202	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_203	W29	WT	O2_oscillations	Single_oscillation_#1.2_DO40	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_204	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_205	W29	WT	O2_oscillations	Single oscillation_#2.2_DO3	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_206	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_207	W29	WT	O2_oscillations	Single oscillation_#2.2_DO3	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_208	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_209	W29	WT	O2_oscillations	Single oscillation_#3.2_DO0	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_210	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_211	W29	WT	O2_oscillations	Single oscillation_#3.2_DO0	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_212	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_213	W29	WT	O2_oscillations	Single_oscillation_#4.2_DO40	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_214	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_215	W29	WT	O2_oscillations	Single_oscillation_#4.2_DO40	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_216	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_217	W29	WT	O2_oscillations	Repeated_oscillation_#5.2_DO40	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_218	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_219	W29	WT	O2_oscillations	Repeated_oscillation_#5.2_DO40	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_220	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_221	W29	WT	O2_oscillations	Repeated_oscillation_#6.2_DO0	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_222	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_223	W29	WT	O2_oscillations	Repeated_oscillation_#6.2_DO0	Single_oscillation_#1.2_DO40	Continuous	Delft	30.0	True	True	True		True	True
+yl_224	W29	WT	O2_oscillations			Continuous	Delft	30.0	True	True	True		True	True
+yl_225	W29	WT	CO2 stress	CO2_0%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_226	W29	WT	CO2 stress	CO2_30%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_227	W29	WT	CO2 stress	CO2_30%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_228	W29	WT	CO2 stress	CO2_10%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_229	W29	WT	CO2 stress	CO2_40%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_230	W29	WT	CO2 stress	CO2_10%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_231	W29	WT	CO2 stress	CO2_50%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_232	W29	WT	CO2 stress	CO2_20%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_233	W29	WT	CO2 stress	CO2_30%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_234	W29	WT	CO2 stress	CO2_50%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_235	W29	WT	CO2 stress	CO2_50%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_236	W29	WT	CO2 stress	CO2_10%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_237	W29	WT	CO2 stress	CO2_50%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_238	W29	WT	CO2 stress	CO2_0%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_239	W29	WT	CO2 stress	CO2_10%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_240	W29	WT	CO2 stress	CO2_40%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_241	W29	WT	CO2 stress	CO2_20%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_242	W29	WT	CO2 stress	CO2_40%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_243	W29	WT	CO2 stress	CO2_30%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_244	W29	WT	CO2 stress	CO2_0%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_245	W29	WT	CO2 stress	CO2_40%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True
+yl_246	W29	WT	CO2 stress	CO2_0%	CO2_0%	Continuous	Delft	30.0	True	True	True		True	True

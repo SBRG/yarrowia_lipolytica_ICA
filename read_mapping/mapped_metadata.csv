@@ -1,0 +1,141 @@
+,File name,Condition,Project,Strain,Mode of operation,Media,Limitation,C-source,Growth rate,DO,pH,Temperature,Read1,Read2
+0,20210204-YL-CN-1,Glucose_Nlimit,Batch_Shaken,W29,Shaken culture,Delft-N limited,Nitrogen,Glucose,0.3,High,6,30,ylipolytic2025_repeat/20210204-YL-CN-1A_1.fq.gz,ylipolytic2025_repeat/20210204-YL-CN-1A_2.fq.gz
+1,20210204-YL-CN-2,Glucose_Nlimit,Batch_Shaken,W29,Shaken culture,Delft-N limited,Nitrogen,Glucose,0.3,High,6,30,ylipolytic2025_repeat/20210204-YL-CN-2A_1.fq.gz,ylipolytic2025_repeat/20210204-YL-CN-2A_2.fq.gz
+2,20210204-YL-fill-1,Glucose_lowDO,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Low,6,30,ylipolytic2025_repeat/20210204-YL-fill-1A_1.fq.gz,ylipolytic2025_repeat/20210204-YL-fill-1A_2.fq.gz
+3,20210204-YL-fill-2,Glucose_lowDO,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Low,6,30,ylipolytic2025_repeat/20210204-YL-fill-2A_1.fq.gz,ylipolytic2025_repeat/20210204-YL-fill-2A_2.fq.gz
+4,20210204-YL-ref-1,Glucose_shaken_reference,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,High,6,30,ylipolytic2025_repeat/20210204-YL-ref-1A_1.fq.gz,ylipolytic2025_repeat/20210204-YL-ref-1A_2.fq.gz
+5,20210204-YL-ref-2,Glucose_shaken_reference,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,High,6,30,ylipolytic2025_repeat/20210204-YL-ref-2A_1.fq.gz,ylipolytic2025_repeat/20210204-YL-ref-2A_2.fq.gz
+6,M1-V01-1A,High glucose_highDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,High,3,30,,
+7,M1-V02-1A,High glucose_mediumDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,Medium,3,30,ylipolytic2025_repeat/M1-V02-1A_1.fq.gz,ylipolytic2025_repeat/M1-V02-1A_2.fq.gz
+8,M1-V03-1A,High glucose_lowDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,Low,3,30,ylipolytic2025_repeat/M1-V03-1A_1.fq.gz,ylipolytic2025_repeat/M1-V03-1A_2.fq.gz
+9,M2-V01-1A,High glucose_highDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M2-V01-1A_1.fq.gz,ylipolytic2025_repeat/M2-V01-1A_2.fq.gz
+10,M2-V02-1A,High glucose_mediumDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,Medium,6,30,ylipolytic2025_repeat/M2-V02-1A_1.fq.gz,ylipolytic2025_repeat/M2-V02-1A_2.fq.gz
+11,M2-V03-1A,High glucose_lowDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,Low,6,30,ylipolytic2025_repeat/M2-V03-1A_1.fq.gz,ylipolytic2025_repeat/M2-V03-1A_2.fq.gz
+12,M3-V01-1A,Glucose_Nlimit_pH3,Batch_Shaken,W29,Shaken culture,Delft-N limited,Nitrogen,Glucose,0.3,High,3,30,ylipolytic2025_repeat/M3-V01-1A_1.fq.gz,ylipolytic2025_repeat/M3-V01-1A_2.fq.gz
+13,M4-V01-1A,Glucose_Nlimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-N limited,Nitrogen,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M4-V01-1A_1.fq.gz,ylipolytic2025_repeat/M4-V01-1A_2.fq.gz
+14,M5-V01-1A,Glucose_Plimit_pH3,Batch_Shaken,W29,Shaken culture,Delft-P limited,Phosphorus,Glucose,0.3,High,3,30,,
+15,M6-V01-1A,Glucose_Plimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-P limited,Phosphorus,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M6-V01-1A_1.fq.gz,ylipolytic2025_repeat/M6-V01-1A_2.fq.gz
+16,M7-V01-1A,Glucose_Mglimit_pH3,Batch_Shaken,W29,Shaken culture,Delft-Mg limited,Magnesium,Glucose,0.3,High,3,30,ylipolytic2025_repeat/M7-V01-1A_1.fq.gz,ylipolytic2025_repeat/M7-V01-1A_2.fq.gz
+17,M8-V01-1A,Glucose_Mglimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-Mg limited,Magnesium,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M8-V01-1A_1.fq.gz,ylipolytic2025_repeat/M8-V01-1A_2.fq.gz
+18,M9-V01-1A,Glucose_highDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,High,3,30,ylipolytic2025_repeat/M9-V01-1A_1.fq.gz,ylipolytic2025_repeat/M9-V01-1A_2.fq.gz
+19,M9-V02-1A,Glucose_mediumDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Medium,3,30,ylipolytic2025_repeat/M9-V02-1A_1.fq.gz,ylipolytic2025_repeat/M9-V02-1A_2.fq.gz
+20,M9-V03-1A,Glucose_lowDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Low,3,30,ylipolytic2025_repeat/M9-V03-1A_1.fq.gz,ylipolytic2025_repeat/M9-V03-1A_2.fq.gz
+21,M10-V01-1A,Glucose_highDO_ph6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M10-V01-1A_1.fq.gz,ylipolytic2025_repeat/M10-V01-1A_2.fq.gz
+22,M10-V02-1A,Glucose_mediumDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Medium,6,30,ylipolytic2025_repeat/M10-V02-1A_1.fq.gz,ylipolytic2025_repeat/M10-V02-1A_2.fq.gz
+23,M10-V03-1A,Glucose_lowDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Low,6,30,ylipolytic2025_repeat/M10-V03-1A_1.fq.gz,ylipolytic2025_repeat/M10-V03-1A_2.fq.gz
+24,M11-V01-1A,High glycerol_pH6,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glycerol,0.3,High,6,30,ylipolytic2025_repeat/M11-V01-1A_1.fq.gz,ylipolytic2025_repeat/M11-V01-1A_2.fq.gz
+25,M12-V01-1A,Glycerol_Nlimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-N limited,Nitrogen,Glycerol,0.3,High,6,30,ylipolytic2025_repeat/M12-V01-1A_1.fq.gz,ylipolytic2025_repeat/M12-V01-1A_2.fq.gz
+26,M13-V01-1A,Glycerol_Plimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-P limited,Phosphorus,Glycerol,0.3,High,6,30,ylipolytic2025_repeat/M13-V01-1A_1.fq.gz,ylipolytic2025_repeat/M13-V01-1A_2.fq.gz
+27,M14-V01-1A,Glycerol_Mglimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-Mg limited,Magnesium,Glycerol,0.3,High,6,30,,
+28,M15-V01-1A,Glycerol_highDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glycerol,0.3,High,6,30,ylipolytic2025_repeat/M15-V01-1A_1.fq.gz,ylipolytic2025_repeat/M15-V01-1A_2.fq.gz
+29,M15-V03-1A,Glycerol_lowDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glycerol,0.3,Low,6,30,ylipolytic2025_repeat/M15-V03-1A_1.fq.gz,ylipolytic2025_repeat/M15-V03-1A_2.fq.gz
+30,M1-V01-2A,High glucose_highDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,High,3,30,ylipolytic2025_repeat/M1-V01-2A_1.fq.gz,ylipolytic2025_repeat/M1-V01-2A_2.fq.gz
+31,M1-V02-2A,High glucose_mediumDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,Medium,3,30,ylipolytic2025_repeat/M1-V02-2A_1.fq.gz,ylipolytic2025_repeat/M1-V02-2A_2.fq.gz
+32,M1-V03-2A,High glucose_lowDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,Low,3,30,ylipolytic2025_repeat/M1-V03-2A_1.fq.gz,ylipolytic2025_repeat/M1-V03-2A_2.fq.gz
+33,M2-V01-2A,High glucose_highDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M2-V01-2A_1.fq.gz,ylipolytic2025_repeat/M2-V01-2A_2.fq.gz
+34,M2-V02-2A,High glucose_mediumDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,Medium,6,30,ylipolytic2025_repeat/M2-V02-2A_1.fq.gz,ylipolytic2025_repeat/M2-V02-2A_2.fq.gz
+35,M2-V03-2A,High glucose_lowDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glucose,0.3,Low,6,30,ylipolytic2025_repeat/M2-V03-2A_1.fq.gz,ylipolytic2025_repeat/M2-V03-2A_2.fq.gz
+36,M3-V01-2A,Glucose_Nlimit_pH3,Batch_Shaken,W29,Shaken culture,Delft-N limited,Nitrogen,Glucose,0.3,High,3,30,ylipolytic2025_repeat/M3-V01-2A_1.fq.gz,ylipolytic2025_repeat/M3-V01-2A_2.fq.gz
+37,M4-V01-2A,Glucose_Nlimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-N limited,Nitrogen,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M4-V01-2A_1.fq.gz,ylipolytic2025_repeat/M4-V01-2A_2.fq.gz
+38,M5-V01-2A,Glucose_Plimit_pH3,Batch_Shaken,W29,Shaken culture,Delft-P limited,Phosphorus,Glucose,0.3,High,3,30,,
+39,M6-V01-2A,Glucose_Plimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-P limited,Phosphorus,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M6-V01-2A_1.fq.gz,ylipolytic2025_repeat/M6-V01-2A_2.fq.gz
+40,M7-V01-2A,Glucose_Mglimit_pH3,Batch_Shaken,W29,Shaken culture,Delft-Mg limited,Magnesium,Glucose,0.3,High,3,30,ylipolytic2025_repeat/M7-V01-2A_1.fq.gz,ylipolytic2025_repeat/M7-V01-2A_2.fq.gz
+41,M8-V01-2A,Glucose_Mglimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-Mg limited,Magnesium,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M8-V01-2A_1.fq.gz,ylipolytic2025_repeat/M8-V01-2A_2.fq.gz
+42,M9-V01-2A,Glucose_highDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,High,3,30,ylipolytic2025_repeat/M9-V01-2A_1.fq.gz,ylipolytic2025_repeat/M9-V01-2A_2.fq.gz
+43,M9-V02-2A,Glucose_mediumDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Medium,3,30,ylipolytic2025_repeat/M9-V02-2A_1.fq.gz,ylipolytic2025_repeat/M9-V02-2A_2.fq.gz
+44,M9-V03-2A,Glucose_lowDO_pH3,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Low,3,30,ylipolytic2025_repeat/M9-V03-2A_1.fq.gz,ylipolytic2025_repeat/M9-V03-2A_2.fq.gz
+45,M10-V01-2A,Glucose_highDO_ph6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,High,6,30,ylipolytic2025_repeat/M10-V01-2A_1.fq.gz,ylipolytic2025_repeat/M10-V01-2A_2.fq.gz
+46,M10-V02-2A,Glucose_mediumDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Medium,6,30,ylipolytic2025_repeat/M10-V02-2A_1.fq.gz,ylipolytic2025_repeat/M10-V02-2A_2.fq.gz
+47,M10-V03-2A,Glucose_lowDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glucose,0.3,Low,6,30,ylipolytic2025_repeat/M10-V03-2A_1.fq.gz,ylipolytic2025_repeat/M10-V03-2A_2.fq.gz
+48,M11-V01-2A,High glycerol_pH6,Batch_Shaken,W29,Shaken culture,Delft,High Carbon,Glycerol,0.3,High,6,30,ylipolytic2025_repeat/M11-V01-2A_1.fq.gz,ylipolytic2025_repeat/M11-V01-2A_2.fq.gz
+49,M12-V01-2A,Glycerol_Nlimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-N limited,Nitrogen,Glycerol,0.3,High,6,30,ylipolytic2025_repeat/M12-V01-2A_1.fq.gz,ylipolytic2025_repeat/M12-V01-2A_2.fq.gz
+50,M13-V01-2A,Glycerol_Plimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-P limited,Phosphorus,Glycerol,0.3,High,6,30,ylipolytic2025_repeat/M13-V01-2A_1.fq.gz,ylipolytic2025_repeat/M13-V01-2A_2.fq.gz
+51,M14-V01-2A,Glycerol_Mglimit_pH6,Batch_Shaken,W29,Shaken culture,Delft-Mg limited,Magnesium,Glycerol,0.3,High,6,30,ylipolytic2025_repeat/M14-V01-2A_1.fq.gz,ylipolytic2025_repeat/M14-V01-2A_2.fq.gz
+52,M15-V01-2A,Glycerol_highDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glycerol,0.3,High,6,30,ylipolytic2025_repeat/M15-V01-2A_1.fq.gz,ylipolytic2025_repeat/M15-V01-2A_2.fq.gz
+53,M15-V03-2A,Glycerol_lowDO_pH6,Batch_Shaken,W29,Shaken culture,Delft,Carbon,Glycerol,0.3,Low,6,30,ylipolytic2025_repeat/M15-V03-2A_1.fq.gz,ylipolytic2025_repeat/M15-V03-2A_2.fq.gz
+54,W29 S02 1 transA,µ0,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.0,40,6,30,,
+55,W29 S02 2 transA,µ0,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.0,40,6,30,,
+56,W29 S03 1 transA,µ0.05,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.05,40,6,30,,
+57,W29 S03 2 transA,µ0.05,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.05,40,6,30,,
+58,W29 S04 1 transA,µ0.1,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.1,40,6,30,,
+59,W29 S04 2 transA,µ0.1,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.1,40,6,30,,
+60,W29 S05 1 transA,µ0.15,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.15,40,6,30,,
+61,W29 S05 2 transA,µ0.15,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.15,40,6,30,,
+62,W29 S06 1 transA,µ0.2,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.2,40,6,30,,
+63,W29 S06 2 transA,µ0.2,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.2,40,6,30,,
+64,W29 S07 1 transA,µ0.25,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.25,40,6,30,,
+65,W29 S07 2 transA,µ0.25,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.25,40,6,30,,
+66,W29 S08 1 transA,µ0.3,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.3,40,6,30,,
+67,W29 S08 2 transA,µ0.3,Growth_Variance_W29,W29,Continuous ,Delft,Carbon,Glucose,0.3,40,6,30,,
+68,SUC S02 1 transA,µ0_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.0,40,6,30,,
+69,SUC S02 2 transA,µ0_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.0,40,6,30,,
+70,SUC S03 1 transA,µ0.05_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.05,40,6,30,,
+71,SUC S03 2 transA,µ0.05_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.05,40,6,30,,
+72,SUC S04 1 transA,µ0.075_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.075,40,6,30,,
+73,SUC S04 2 transA,µ0.075_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.075,40,6,30,,
+74,SUC S05 1 transA,µ0.1_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.1,40,6,30,,
+75,SUC S05 2 transA,µ0.1_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.1,40,6,30,,
+76,SUC S06 1 transA,µ0.125_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.125,40,6,30,,
+77,SUC S06 2 transA,µ0.125_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.125,40,6,30,,
+78,SUC S07 1 transA,µ0.15_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.15,40,6,30,,
+79,SUC S07 2 transA,µ0.15_ST8712,Growth_Variance_ST8712,ST8712,Continuous ,Delft,Carbon,Glucose,0.15,40,6,30,,
+80,PD017 A1 S02 #1,µ0.1_DO50,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,50,6,30,,
+81,PD017 A1 S02 #2,µ0.1_DO50,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,50,6,30,,
+82,PD017 A1 S03 #1,µ0.1_DO25,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,25,6,30,,
+83,PD017 A1 S03 #2,µ0.1_DO35,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,25,6,30,,
+84,PD017 A1 S04 #1,µ0.1_DO10,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,10,6,30,,
+85,PD017 A1 S04 #2,µ0.1_DO10,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,10,6,30,,
+86,PD017 A1 S05 #1,µ0.1_DO5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,5,6,30,,
+87,PD017 A1 S05 #2,µ0.1_DO5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,5,6,30,,
+88,PD017 A1 S06 #1,µ0.1_DO2.5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,2.5,6,30,,
+89,PD017 A1 S06 #2,µ0.1_DO2.5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,2.5,6,30,,
+90,PD017 A1 S07 #1,µ0.1_DO0,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,0,6,30,,
+91,PD017 A1 S07 #2,µ0.1_DO0,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.1,0,6,30,,
+92,PD017 A3 S02 #1,µ0.2_DO50,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,50,6,30,,
+93,PD017 A3 S02 #2,µ0.2_DO50,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,50,6,30,,
+94,PD017 A3 S03 #1,µ0.2_DO25,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,25,6,30,,
+95,PD017 A3 S03 #2,µ0.2_DO25,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,25,6,30,,
+96,PD017 A3 S04 #1,µ0.2_DO10,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,10,6,30,,
+97,PD017 A3 S04 #2,µ0.2_DO10,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,10,6,30,,
+98,PD017 A3 S05 #1,µ0.2_DO5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,5,6,30,,
+99,PD017 A3 S05 #2,µ0.2_DO5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,5,6,30,,
+100,PD017 A3 S06 #1,µ0.2_DO2.5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,2.5,6,30,,
+101,PD017 A3 S06 #2,µ0.2_DO2.5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,2.5,6,30,,
+102,PD017 A3 S07 #1,µ0.2_DO0,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,0,6,30,,
+103,PD017 A3 S07 #2,µ0.2_DO0,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.2,0,6,30,,
+104,PD019 A1 S02 #1,µ0.05_DO50,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,50,6,30,,
+105,PD019 A1 S02 #2,µ0.05_DO50,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,50,6,30,,
+106,PD019 A1 S03 #1,µ0.05_DO25,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,25,6,30,,
+107,PD019 A1 S03 #2,µ0.05_DO35,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,25,6,30,,
+108,PD019 A1 S04 #1,µ0.05_DO10,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,10,6,30,,
+109,PD019 A1 S04 #2,µ0.05_DO10,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,10,6,30,,
+110,PD019 A1 S05 #1,µ0.05_DO5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,5,6,30,,
+111,PD019 A1 S05 #2,µ0.05_DO5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,5,6,30,,
+112,PD019 A1 S06 #1,µ0.05_DO2.5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,2.5,6,30,,
+113,PD019 A1 S06 #2,µ0.05_DO2.5,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,2.5,6,30,,
+114,PD019 A1 S07 #1,µ0.05_DO0,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,0,6,30,,
+115,PD019 A1 S07 #2,µ0.05_DO0,O2_oscillation,W29,Continuous ,Delft,Carbon,Glucose,0.05,0,6,30,,
+116,R1_S02_#1,CO2_10%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S02_#1A_1.fq.gz,ylipolytic2025_repeat/R1_S02_#1A_2.fq.gz
+117,R1_S02_#2,CO2_10%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S02_#2A_1.fq.gz,ylipolytic2025_repeat/R1_S02_#2A_2.fq.gz
+118,R1_S03_#1,CO2_20%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S03_#1A_1.fq.gz,ylipolytic2025_repeat/R1_S03_#1A_2.fq.gz
+119,R1_S03_#2,CO2_20%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S03_#2A_1.fq.gz,ylipolytic2025_repeat/R1_S03_#2A_2.fq.gz
+120,R1_S04_#1,CO2_30%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S04_#1A_1.fq.gz,ylipolytic2025_repeat/R1_S04_#1A_2.fq.gz
+121,R1_S04_#2,CO2_30%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S04_#2A_1.fq.gz,ylipolytic2025_repeat/R1_S04_#2A_2.fq.gz
+122,R1_S05_#1,CO2_40%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S05_#1A_1.fq.gz,ylipolytic2025_repeat/R1_S05_#1A_2.fq.gz
+123,R1_S05_#2,CO2_40%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S05_#2A_1.fq.gz,ylipolytic2025_repeat/R1_S05_#2A_2.fq.gz
+124,R1_S06_#1,CO2_50%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S06_#1A_1.fq.gz,ylipolytic2025_repeat/R1_S06_#1A_2.fq.gz
+125,R1_S06_#2,CO2_50%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S06_#2A_1.fq.gz,ylipolytic2025_repeat/R1_S06_#2A_2.fq.gz
+126,R1_S08_#1,CO2_0%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S08_#1A_1.fq.gz,ylipolytic2025_repeat/R1_S08_#1A_2.fq.gz
+127,R1_S08_#2,CO2_0%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R1_S08_#2A_1.fq.gz,ylipolytic2025_repeat/R1_S08_#2A_2.fq.gz
+128,R3_S02_#1,CO2_10%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S02_#1A_1.fq.gz,ylipolytic2025_repeat/R3_S02_#1A_2.fq.gz
+129,R3_S02_#2,CO2_10%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S02_#2A_1.fq.gz,ylipolytic2025_repeat/R3_S02_#2A_2.fq.gz
+130,R3_S03_#1,CO2_20%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,,
+131,R3_S03_#2,CO2_20%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,,
+132,R3_S04_#1,CO2_30%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S04_#1A_1.fq.gz,ylipolytic2025_repeat/R3_S04_#1A_2.fq.gz
+133,R3_S04_#2,CO2_30%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S04_#2A_1.fq.gz,ylipolytic2025_repeat/R3_S04_#2A_2.fq.gz
+134,R3_S05_#1,CO2_40%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S05_#1A_1.fq.gz,ylipolytic2025_repeat/R3_S05_#1A_2.fq.gz
+135,R3_S05_#2,CO2_40%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S05_#2A_1.fq.gz,ylipolytic2025_repeat/R3_S05_#2A_2.fq.gz
+136,R3_S06_#1,CO2_50%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S06_#1A_1.fq.gz,ylipolytic2025_repeat/R3_S06_#1A_2.fq.gz
+137,R3_S06_#2,CO2_50%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S06_#2A_1.fq.gz,ylipolytic2025_repeat/R3_S06_#2A_2.fq.gz
+138,R3_S08_#1,CO2_0%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S08_#1A_1.fq.gz,ylipolytic2025_repeat/R3_S08_#1A_2.fq.gz
+139,R3_S08_#2,CO2_0%,CO2_oscillation,W29,Continuous,Delft,None,Glucose,0.1,25,N.A,30,ylipolytic2025_repeat/R3_S08_#2A_1.fq.gz,ylipolytic2025_repeat/R3_S08_#2A_2.fq.gz

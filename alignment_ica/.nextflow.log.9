@@ -1,0 +1,16 @@
+Jun-11 16:33:33.130 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nf-core/rnaseq -r 22.04.0 -profile docker --max_cpus 4 --max_memory 29.GB -w 's3://modulome/jayanth/ylipolytica2025/outputs/' --input 's3://modulome/jayanth/ylipolytica2025/inputs/custom.config' --outdir 's3://modulome/jayanth/ylipolytica2025/outputs/' --fasta 's3://modulome/jayanth/ylipolytica2025/sequences/W29.fna' --gff 's3://modulome/jayanth/ylipolytica2025/sequences/W29.gff' -c custom.config --awsqueue ylipolytica_rnaseq_jayanth --awsregion us-east-2 --skip_biotype_qc
+Jun-11 16:33:33.197 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 22.04.0
+Jun-11 16:33:34.337 [main] DEBUG nextflow.scm.AssetManager - Git config: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/rnaseq.git
+Jun-11 16:33:34.349 [main] DEBUG nextflow.scm.AssetManager - Git config: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/rnaseq.git
+Jun-11 16:33:35.220 [main] DEBUG nextflow.cli.Launcher - Operation aborted
+org.eclipse.jgit.api.errors.RefNotFoundException: Ref origin/22.04.0 cannot be resolved
+	at org.eclipse.jgit.api.CreateBranchCommand.getStartPointObjectId(CreateBranchCommand.java:279)
+	at org.eclipse.jgit.api.CreateBranchCommand.call(CreateBranchCommand.java:132)
+	at org.eclipse.jgit.api.CheckoutCommand.call(CheckoutCommand.java:225)
+	at nextflow.scm.AssetManager.checkoutRemoteBranch(AssetManager.groovy:960)
+	at nextflow.scm.AssetManager.checkout(AssetManager.groovy:939)
+	at nextflow.cli.CmdRun.getScriptFile0(CmdRun.groovy:461)
+	at nextflow.cli.CmdRun.getScriptFile(CmdRun.groovy:387)
+	at nextflow.cli.CmdRun.run(CmdRun.groovy:284)
+	at nextflow.cli.Launcher.run(Launcher.groovy:480)
+	at nextflow.cli.Launcher.main(Launcher.groovy:639)

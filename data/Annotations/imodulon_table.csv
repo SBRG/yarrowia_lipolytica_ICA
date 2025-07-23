@@ -1,0 +1,38 @@
+iModulon,iModulon Name,Descriptors,COGs,Category
+0,DAL81,Ammonia degradation/Nitrogen related,E (Amino acid transport),Metabolism
+1,UC1,Contains some sugar related proteins?,S (Unknown),Uncharacterized
+2,FDH,Formate Dehydrogenase,C (Energy Production and Conversion),Energy
+3,UC19,N.A,N.A,N.A
+4,ADR1,CRP like - non glucose carbon metabolism,Q (Catabolism),Metabolism
+5,UC2,N.A,S (Unknown),Uncharacterized
+6,SWI5,D (Cell cycle control),D (Cell cycle control),Cell division
+7,UC3,N.A,G(Carbohydrate transport and metabolism),Uncharacterized
+8,UC4,N.A,S (Unknown),Uncharacterized
+9,UC5,N.A,"O (Post translation mods, chaperons)",Uncharacterized
+10,UC20,N.A,N.A,N.A
+11,UC6,N.A,C (Energy Production and Conversion),Uncharacterized
+12,UC7,"Malate synthase, PCK, FTR1",S (Unknown),Uncharacterized
+13,UC8,N.A,S (Unknown),Uncharacterized
+14,HSP1,Heat shock protein subunits ,S (Unknown),Stress
+15,UC9,N.A,S (Unknown),Uncharacterized
+16,MET32,Methionine biosynthesis,E (Amino acid transport),Metabolism
+17,FKH2,chromatin regulation,A (RNA processing and modification),Cell division
+18,UC10,N.A,Q (Catabolism),
+19,Zrt_Ftr,"ZRT/FTR (Zinc, iron transporters)",S (Unknown),Transport
+20,UC11,N.A,- (Unknown),Uncharacterized
+21,CAT8,CRP like - non glucose carbon metabolism,"C, G (Catabolism)",Metabolism
+22,GCN4,Amino acid biosynthesis ,E (Amino acid transport),Metabolism
+23,UC12,N.A,G(Carbohydrate transport and metabolism),Uncharacterized
+24,IFH1,Ribsomal,J (Translation/Ribosomal),Translation
+25,UC13,N.A,"O (Post translation mods, chaperons)",Uncharacterized
+26,MBP1,Cell phase related regulation,"L ( Replication, Recombination, Repair)",Cell division
+27,UC14,N.A,"P, H (Ion, Cofactor transport)",Transport
+28,UC15,N.A,S (Unknown),Uncharacterized
+29,RTG3,Mitochondrial retrograde,"S (Unknown), E(Amino acid transport)",Stress
+30,FeRd,Iron reductae/Iron related,S(Unknown),Energy
+31,HOT1,Osmolarity related glycerol biosynthesis,S(Unknown),Stress
+32,UC16,N.A,"A(RNA processing), E (Amino acid transport)",Uncharacterized
+33,RME,RME1?,S (Unknown),Cell division
+34,UC17,N.A,E (Amino acid transport),Transport
+35,HSP2,HSP2,"S(Unknown), G(Catabolism)",Stress
+36,UC18,N.A,"G(Carbohydrate transport and metabolism), T(Signal transduction)",Uncharacterized
