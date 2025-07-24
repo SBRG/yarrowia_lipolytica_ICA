@@ -128,7 +128,8 @@ def plot_dima_local(
         df_diff = pd.concat([df_diff, a1, a2], join="inner", axis=1)
         texts = []
         for k in df_diff.index:
-            texts.append(ax.text(df_diff.loc[k, 0], df_diff.loc[k, 1], k, fontsize=9.8))
+            print(k)
+            texts.append(ax.text(df_diff.loc[k, 0], df_diff.loc[k, 1], ica_data.imodulon_table.loc[k]['iModulon Name'], fontsize=9.8))
         if adjust:
             expand_args = {
                 "expand_objects": (1.2, 1.4),
@@ -142,7 +143,7 @@ def plot_dima_local(
                 only_move={"objects": "y"},
                 **expand_args,
             )
-    print(df_diff)
+    #print(df_diff)
     # Add legend if requested
     if legend_cgw:
         ax.legend(**legend_kwargs_cgw)
