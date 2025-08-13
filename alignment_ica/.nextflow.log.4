@@ -1,96 +1,99 @@
-Aug-01 17:19:18.630 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nf-core/rnaseq -r 3.14.0 -profile docker --max_cpus 4 --max_memory 29.GB --skip_alignment -w 's3://modulome/jayanth/ylipolytica2025/08_02_25/outputs/' --input 's3://modulome/jayanth/ylipolytica2025/08_02_2025/inputs/samples.csv' --outdir 's3://modulome/jayanth/ylipolytica2025/08_02_2025/outputs/' --fasta 's3://modulome/jayanth/ylipolytica2025/sequences/W29.fna' --gff 's3://modulome/jayanth/ylipolytica2025/sequences/W29.gff' --pseudo_aligner salmon -c custom.config --awsqueue ylipolytica_rnaseq_jayanth --awsregion us-east-2
-Aug-01 17:19:18.693 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 23.04.0
-Aug-01 17:19:18.717 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; embedded=false; plugins-dir=/home/kkrishnan/.nextflow/plugins; core-plugins: nf-amazon@1.16.1,nf-azure@1.0.0,nf-codecommit@0.1.3,nf-console@1.0.5,nf-ga4gh@1.0.4,nf-google@1.7.2,nf-tower@1.5.11,nf-wave@0.8.1
-Aug-01 17:19:18.727 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
-Aug-01 17:19:18.728 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
-Aug-01 17:19:18.733 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.4.1 in 'deployment' mode
-Aug-01 17:19:18.744 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
-Aug-01 17:19:18.764 [main] DEBUG nextflow.scm.ProviderConfig - Using SCM config path: /home/kkrishnan/.nextflow/scm
-Aug-01 17:19:19.828 [main] DEBUG nextflow.scm.AssetManager - Git config: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/rnaseq.git
-Aug-01 17:19:19.844 [main] DEBUG nextflow.scm.RepositoryFactory - Found Git repository result: [RepositoryFactory]
-Aug-01 17:19:19.852 [main] DEBUG nextflow.scm.AssetManager - Git config: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/rnaseq.git
-Aug-01 17:19:20.746 [main] DEBUG nextflow.config.ConfigBuilder - Found config base: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/nextflow.config
-Aug-01 17:19:20.747 [main] DEBUG nextflow.config.ConfigBuilder - User config file: /home/kkrishnan/SBRG/imodulons/yarrowia_lipolytica_ICA/alignment_ica/custom.config
-Aug-01 17:19:20.748 [main] DEBUG nextflow.config.ConfigBuilder - Parsing config file: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/nextflow.config
-Aug-01 17:19:20.748 [main] DEBUG nextflow.config.ConfigBuilder - Parsing config file: /home/kkrishnan/SBRG/imodulons/yarrowia_lipolytica_ICA/alignment_ica/custom.config
-Aug-01 17:19:20.756 [main] DEBUG nextflow.config.ConfigBuilder - Applying config profile: `docker`
-Aug-01 17:19:22.079 [main] DEBUG nextflow.config.ConfigBuilder - Applying config profile: `docker`
-Aug-01 17:19:22.091 [main] DEBUG nextflow.config.ConfigBuilder - Available config profiles: [bih, cfc_dev, uzl_omics, ifb_core, embl_hd, denbi_qbic, alice, mjolnir_globe, uppmax, giga, incliva, ilifu, ki_luria, uge, icr_alma, rosalind_uge, lugh, mccleary, unibe_ibu, vai, czbiohub_aws, jax, roslin, tes, scw, unc_longleaf, tigem, tubingen_apg, google, apollo, ipop_up, vsc_calcua, pdc_kth, googlels, ceci_nic5, ccga_cau, humantechnopole, stjude, daisybio, eddie, medair, biowulf, apptainer, bi, bigpurple, test_full_gcp, adcra, cedars, pawsey_setonix, vsc_kul_uhasselt, pawsey_nimbus, ucl_myriad, utd_ganymede, charliecloud, fred_hutch, seattlechildrens, icr_davros, ceres, munin, arm, rosalind, hasta, cfc, uzh, test_full_aws, shu_bmrc, ebi_codon_slurm, ebc, ccga_dx, crick, ku_sund_danhead, marvin, biohpc_gen, shifter, mana, mamba, york_viking, unc_lccc, wehi, awsbatch, wustl_htcf, arcc, ceci_dragon2, imperial, maestro, software_license, cannon, genotoul, nci_gadi, abims, eva_grace, janelia, nu_genomics, googlebatch, oist, sahmri, kaust, alliance_canada, mpcdf, leicester, vsc_ugent, create, sage, cambridge, jex, podman, ebi_codon, cheaha, xanadu, nyu_hpc, test, marjorie, computerome, ucd_sonic, seg_globe, mssm, sanger, dkfz, bluebear, pasteur, einstein, ethz_euler, m3c, test_full, imb, ucl_cscluster, tuos_stanage, azurebatch, hki, seadragon, crukmi, csiro_petrichor, qmul_apocrita, docker, engaging, gis, hypatia, psmn, test_full_azure, eva, unity, cropdiversityhpc, nygc, fgcz, conda, crg, singularity, mpcdf_viper, pe2, self_hosted_runner, tufts, uw_hyak_pedslabs, binac2, utd_sysbio, debug, genouest, cbe, unsw_katana, utd_juno, test_cache, phoenix, gitpod, seawulf, uod_hpc, fub_curta, uct_hpc, aws_tower, binac, fsu_draco]
-Aug-01 17:19:22.133 [main] DEBUG nextflow.cli.CmdRun - Applied DSL=2 from script declararion
-Aug-01 17:19:22.134 [main] INFO  nextflow.cli.CmdRun - Launching `https://github.com/nf-core/rnaseq` [hungry_dijkstra] DSL2 - revision: b89fac3265 [3.14.0]
-Aug-01 17:19:22.134 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins declared=[nf-validation@1.1.3]
-Aug-01 17:19:22.134 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins default=[nf-amazon@1.16.1]
-Aug-01 17:19:22.134 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins resolved requirement=[nf-validation@1.1.3, nf-amazon@1.16.1]
-Aug-01 17:19:22.134 [main] DEBUG nextflow.plugin.PluginUpdater - Installing plugin nf-validation version: 1.1.3
-Aug-01 17:19:22.145 [main] INFO  org.pf4j.AbstractPluginManager - Plugin 'nf-validation@1.1.3' resolved
-Aug-01 17:19:22.145 [main] INFO  org.pf4j.AbstractPluginManager - Start plugin 'nf-validation@1.1.3'
-Aug-01 17:19:22.163 [main] DEBUG nextflow.plugin.BasePlugin - Plugin started nf-validation@1.1.3
-Aug-01 17:19:22.163 [main] DEBUG nextflow.plugin.PluginUpdater - Installing plugin nf-amazon version: 1.16.1
-Aug-01 17:19:22.168 [main] INFO  org.pf4j.AbstractPluginManager - Plugin 'nf-amazon@1.16.1' resolved
-Aug-01 17:19:22.168 [main] INFO  org.pf4j.AbstractPluginManager - Start plugin 'nf-amazon@1.16.1'
-Aug-01 17:19:22.214 [main] DEBUG nextflow.plugin.BasePlugin - Plugin started nf-amazon@1.16.1
-Aug-01 17:19:22.233 [main] DEBUG nextflow.file.FileHelper - > Added 'S3FileSystemProvider' to list of installed providers [s3]
-Aug-01 17:19:22.243 [main] DEBUG nextflow.secret.LocalSecretsProvider - Secrets store: /home/kkrishnan/.nextflow/secrets/store.json
-Aug-01 17:19:22.245 [main] DEBUG nextflow.secret.SecretsLoader - Discovered secrets providers: [nextflow.secret.LocalSecretsProvider@5c41b8d8] - activable => nextflow.secret.LocalSecretsProvider@5c41b8d8
-Aug-01 17:19:22.301 [main] DEBUG nextflow.Session - Session UUID: 9f125a1e-a036-49c7-8394-4695e2373164
-Aug-01 17:19:22.301 [main] DEBUG nextflow.Session - Run name: hungry_dijkstra
-Aug-01 17:19:22.302 [main] DEBUG nextflow.Session - Executor pool size: 8
-Aug-01 17:19:22.308 [main] DEBUG nextflow.file.FileHelper - Creating a file system instance for provider: S3FileSystemProvider
-Aug-01 17:19:22.314 [main] DEBUG nextflow.Global - Using AWS credential defined in `default` section in file: /home/kkrishnan/.aws/credentials
-Aug-01 17:19:22.314 [main] DEBUG nextflow.file.FileHelper - AWS S3 config details: {secret_key=RplDf0.., region=us-east-2, max_error_retry=5, access_key=AKIAVW..}
-Aug-01 17:19:22.774 [main] DEBUG com.upplication.s3fs.AmazonS3Client - Setting S3 glacierRetrievalTier=null
-Aug-01 17:19:22.811 [main] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'FileTransfer' minSize=10; maxSize=24; workQueue=LinkedBlockingQueue[10000]; allowCoreThreadTimeout=false
-Aug-01 17:19:22.820 [main] DEBUG nextflow.cli.CmdRun - 
+Aug-01 18:18:45.500 [main] DEBUG nextflow.cli.Launcher - $> nextflow run nf-core/rnaseq -r 3.14.0 -profile docker --max_cpus 4 --max_memory 29.GB --skip_alignment -w 's3://modulome/jayanth/ylipolytica2025/08_02_2025/outputs/' --input 's3://modulome/jayanth/ylipolytica2025/08_02_2025/inputs/samples.csv' --outdir 's3://modulome/jayanth/ylipolytica2025/08_02_2025/outputs/' --fasta 's3://modulome/jayanth/ylipolytica2025/sequences/W29.fna' --gff 's3://modulome/jayanth/ylipolytica2025/sequences/W29.gff' --pseudo_aligner salmon -c custom.config --awsqueue ylipolytica_rnaseq_jayanth --awsregion us-east-2 --resume
+Aug-01 18:18:45.563 [main] INFO  nextflow.cli.CmdRun - N E X T F L O W  ~  version 23.04.0
+Aug-01 18:18:45.583 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; embedded=false; plugins-dir=/home/kkrishnan/.nextflow/plugins; core-plugins: nf-amazon@1.16.1,nf-azure@1.0.0,nf-codecommit@0.1.3,nf-console@1.0.5,nf-ga4gh@1.0.4,nf-google@1.7.2,nf-tower@1.5.11,nf-wave@0.8.1
+Aug-01 18:18:45.596 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+Aug-01 18:18:45.597 [main] INFO  org.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+Aug-01 18:18:45.602 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.4.1 in 'deployment' mode
+Aug-01 18:18:45.616 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+Aug-01 18:18:45.641 [main] DEBUG nextflow.scm.ProviderConfig - Using SCM config path: /home/kkrishnan/.nextflow/scm
+Aug-01 18:18:46.631 [main] DEBUG nextflow.scm.AssetManager - Git config: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/rnaseq.git
+Aug-01 18:18:46.653 [main] DEBUG nextflow.scm.RepositoryFactory - Found Git repository result: [RepositoryFactory]
+Aug-01 18:18:46.662 [main] DEBUG nextflow.scm.AssetManager - Git config: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/.git/config; branch: master; remote: origin; url: https://github.com/nf-core/rnaseq.git
+Aug-01 18:18:47.540 [main] DEBUG nextflow.config.ConfigBuilder - Found config base: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/nextflow.config
+Aug-01 18:18:47.541 [main] DEBUG nextflow.config.ConfigBuilder - User config file: /home/kkrishnan/SBRG/imodulons/yarrowia_lipolytica_ICA/alignment_ica/custom.config
+Aug-01 18:18:47.542 [main] DEBUG nextflow.config.ConfigBuilder - Parsing config file: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/nextflow.config
+Aug-01 18:18:47.542 [main] DEBUG nextflow.config.ConfigBuilder - Parsing config file: /home/kkrishnan/SBRG/imodulons/yarrowia_lipolytica_ICA/alignment_ica/custom.config
+Aug-01 18:18:47.551 [main] DEBUG nextflow.config.ConfigBuilder - Applying config profile: `docker`
+Aug-01 18:18:48.844 [main] DEBUG nextflow.config.ConfigBuilder - Applying config profile: `docker`
+Aug-01 18:18:48.858 [main] DEBUG nextflow.config.ConfigBuilder - Available config profiles: [bih, cfc_dev, uzl_omics, ifb_core, embl_hd, denbi_qbic, alice, mjolnir_globe, uppmax, giga, incliva, ilifu, ki_luria, uge, icr_alma, rosalind_uge, lugh, mccleary, unibe_ibu, vai, czbiohub_aws, jax, roslin, tes, scw, unc_longleaf, tigem, tubingen_apg, google, apollo, ipop_up, vsc_calcua, pdc_kth, googlels, ceci_nic5, ccga_cau, humantechnopole, stjude, daisybio, eddie, medair, biowulf, apptainer, bi, bigpurple, test_full_gcp, adcra, cedars, pawsey_setonix, vsc_kul_uhasselt, pawsey_nimbus, ucl_myriad, utd_ganymede, charliecloud, fred_hutch, seattlechildrens, icr_davros, ceres, munin, arm, rosalind, hasta, cfc, uzh, test_full_aws, shu_bmrc, ebi_codon_slurm, ebc, ccga_dx, crick, ku_sund_danhead, marvin, biohpc_gen, shifter, mana, mamba, york_viking, unc_lccc, wehi, awsbatch, wustl_htcf, arcc, ceci_dragon2, imperial, maestro, software_license, cannon, genotoul, nci_gadi, abims, eva_grace, janelia, nu_genomics, googlebatch, oist, sahmri, kaust, alliance_canada, mpcdf, leicester, vsc_ugent, create, sage, cambridge, jex, podman, ebi_codon, cheaha, xanadu, nyu_hpc, test, marjorie, computerome, ucd_sonic, seg_globe, mssm, sanger, dkfz, bluebear, pasteur, einstein, ethz_euler, m3c, test_full, imb, ucl_cscluster, tuos_stanage, azurebatch, hki, seadragon, crukmi, csiro_petrichor, qmul_apocrita, docker, engaging, gis, hypatia, psmn, test_full_azure, eva, unity, cropdiversityhpc, nygc, fgcz, conda, crg, singularity, mpcdf_viper, pe2, self_hosted_runner, tufts, uw_hyak_pedslabs, binac2, utd_sysbio, debug, genouest, cbe, unsw_katana, utd_juno, test_cache, phoenix, gitpod, seawulf, uod_hpc, fub_curta, uct_hpc, aws_tower, binac, fsu_draco]
+Aug-01 18:18:48.892 [main] DEBUG nextflow.cli.CmdRun - Applied DSL=2 from script declararion
+Aug-01 18:18:48.892 [main] INFO  nextflow.cli.CmdRun - Launching `https://github.com/nf-core/rnaseq` [grave_roentgen] DSL2 - revision: b89fac3265 [3.14.0]
+Aug-01 18:18:48.893 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins declared=[nf-validation@1.1.3]
+Aug-01 18:18:48.893 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins default=[nf-amazon@1.16.1]
+Aug-01 18:18:48.893 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins resolved requirement=[nf-validation@1.1.3, nf-amazon@1.16.1]
+Aug-01 18:18:48.893 [main] DEBUG nextflow.plugin.PluginUpdater - Installing plugin nf-validation version: 1.1.3
+Aug-01 18:18:48.899 [main] INFO  org.pf4j.AbstractPluginManager - Plugin 'nf-validation@1.1.3' resolved
+Aug-01 18:18:48.900 [main] INFO  org.pf4j.AbstractPluginManager - Start plugin 'nf-validation@1.1.3'
+Aug-01 18:18:48.917 [main] DEBUG nextflow.plugin.BasePlugin - Plugin started nf-validation@1.1.3
+Aug-01 18:18:48.917 [main] DEBUG nextflow.plugin.PluginUpdater - Installing plugin nf-amazon version: 1.16.1
+Aug-01 18:18:48.920 [main] INFO  org.pf4j.AbstractPluginManager - Plugin 'nf-amazon@1.16.1' resolved
+Aug-01 18:18:48.920 [main] INFO  org.pf4j.AbstractPluginManager - Start plugin 'nf-amazon@1.16.1'
+Aug-01 18:18:48.973 [main] DEBUG nextflow.plugin.BasePlugin - Plugin started nf-amazon@1.16.1
+Aug-01 18:18:48.995 [main] DEBUG nextflow.file.FileHelper - > Added 'S3FileSystemProvider' to list of installed providers [s3]
+Aug-01 18:18:49.006 [main] DEBUG nextflow.secret.LocalSecretsProvider - Secrets store: /home/kkrishnan/.nextflow/secrets/store.json
+Aug-01 18:18:49.008 [main] DEBUG nextflow.secret.SecretsLoader - Discovered secrets providers: [nextflow.secret.LocalSecretsProvider@5f166f2e] - activable => nextflow.secret.LocalSecretsProvider@5f166f2e
+Aug-01 18:18:49.076 [main] DEBUG nextflow.Session - Session UUID: 0d7f9f22-65b8-4a43-a81d-80898f45aac0
+Aug-01 18:18:49.076 [main] DEBUG nextflow.Session - Run name: grave_roentgen
+Aug-01 18:18:49.077 [main] DEBUG nextflow.Session - Executor pool size: 8
+Aug-01 18:18:49.085 [main] DEBUG nextflow.file.FileHelper - Creating a file system instance for provider: S3FileSystemProvider
+Aug-01 18:18:49.090 [main] DEBUG nextflow.Global - Using AWS credential defined in `default` section in file: /home/kkrishnan/.aws/credentials
+Aug-01 18:18:49.091 [main] DEBUG nextflow.file.FileHelper - AWS S3 config details: {secret_key=RplDf0.., region=us-east-2, max_error_retry=5, access_key=AKIAVW..}
+Aug-01 18:18:49.596 [main] DEBUG com.upplication.s3fs.AmazonS3Client - Setting S3 glacierRetrievalTier=null
+Aug-01 18:18:49.639 [main] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'FileTransfer' minSize=10; maxSize=24; workQueue=LinkedBlockingQueue[10000]; allowCoreThreadTimeout=false
+Aug-01 18:18:49.649 [main] DEBUG nextflow.cli.CmdRun - 
   Version: 23.04.0 build 5857
   Created: 01-04-2023 21:09 UTC (14:09 PDT)
   System: Linux 5.15.0-139-generic
   Runtime: Groovy 3.0.16 on OpenJDK 64-Bit Server VM 11.0.14+9-LTS
   Encoding: UTF-8 (UTF-8)
-  Process: 656813@ecoli-OptiPlex-7050-SBRG [127.0.1.1]
-  CPUs: 8 - Mem: 15.5 GB (525.5 MB) - Swap: 2 GB (183 MB)
-Aug-01 17:19:23.496 [main] DEBUG nextflow.file.FileHelper - Can't check if specified path is NFS (1): s3://modulome/jayanth/ylipolytica2025/08_02_25/outputs
+  Process: 686098@ecoli-OptiPlex-7050-SBRG [127.0.1.1]
+  CPUs: 8 - Mem: 15.5 GB (3.5 GB) - Swap: 2 GB (260.4 MB)
+Aug-01 18:18:50.331 [main] DEBUG nextflow.file.FileHelper - Can't check if specified path is NFS (1): s3://modulome/jayanth/ylipolytica2025/08_02_2025/outputs
 
-Aug-01 17:19:23.496 [main] DEBUG nextflow.Session - Work-dir: s3://modulome/jayanth/ylipolytica2025/08_02_25/outputs [null]
-Aug-01 17:19:23.524 [main] DEBUG nextflow.executor.ExecutorFactory - Extension executors providers=[AwsBatchExecutor]
-Aug-01 17:19:23.534 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
-Aug-01 17:19:23.629 [main] DEBUG nextflow.cache.CacheFactory - Using Nextflow cache factory: nextflow.cache.DefaultCacheFactory
-Aug-01 17:19:23.640 [main] DEBUG nextflow.util.CustomThreadPool - Creating default thread pool > poolSize: 9; maxThreads: 1000
-Aug-01 17:19:23.705 [main] DEBUG nextflow.Session - Session start
-Aug-01 17:19:23.707 [main] DEBUG nextflow.trace.TraceFileObserver - Workflow started -- trace file: s3://modulome/jayanth/ylipolytica2025/08_02_2025/outputs/pipeline_info/execution_trace_2025-08-01_17-19-21.txt
-Aug-01 17:19:23.999 [main] DEBUG nextflow.Session - Using default localLib path: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/lib
-Aug-01 17:19:24.001 [main] DEBUG nextflow.Session - Adding to the classpath library: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/lib
-Aug-01 17:19:24.002 [main] DEBUG nextflow.Session - Adding to the classpath library: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/lib/nfcore_external_java_deps.jar
-Aug-01 17:19:24.414 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
-Aug-01 17:19:24.427 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [validateParameters:validateParameters, paramsHelp:paramsHelp]; plugin Id: nf-validation
-Aug-01 17:19:24.443 [main] DEBUG nextflow.validation.SchemaValidator - Starting parameters validation
-Aug-01 17:19:24.517 [main] DEBUG nextflow.validation.SchemaValidator - Ignoring validation of S3 URL path 's3://modulome/jayanth/ylipolytica2025/sequences/W29.gff'
-Aug-01 17:19:24.517 [main] DEBUG nextflow.validation.SchemaValidator - Ignoring validation of S3 URL path 's3://modulome/jayanth/ylipolytica2025/sequences/W29.fna'
-Aug-01 17:19:24.517 [main] DEBUG nextflow.validation.SchemaValidator - Ignoring validation of S3 URL path 's3://modulome/jayanth/ylipolytica2025/08_02_2025/inputs/samples.csv'
-Aug-01 17:19:24.584 [main] WARN  nextflow.validation.SchemaValidator - The following invalid input values have been detected:
+Aug-01 18:18:50.332 [main] DEBUG nextflow.Session - Work-dir: s3://modulome/jayanth/ylipolytica2025/08_02_2025/outputs [null]
+Aug-01 18:18:50.394 [main] DEBUG nextflow.executor.ExecutorFactory - Extension executors providers=[AwsBatchExecutor]
+Aug-01 18:18:50.415 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Aug-01 18:18:50.558 [main] DEBUG nextflow.cache.CacheFactory - Using Nextflow cache factory: nextflow.cache.DefaultCacheFactory
+Aug-01 18:18:50.575 [main] DEBUG nextflow.util.CustomThreadPool - Creating default thread pool > poolSize: 9; maxThreads: 1000
+Aug-01 18:18:50.694 [main] DEBUG nextflow.Session - Session start
+Aug-01 18:18:50.697 [main] DEBUG nextflow.trace.TraceFileObserver - Workflow started -- trace file: s3://modulome/jayanth/ylipolytica2025/08_02_2025/outputs/pipeline_info/execution_trace_2025-08-01_18-18-48.txt
+Aug-01 18:18:51.047 [main] DEBUG nextflow.Session - Using default localLib path: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/lib
+Aug-01 18:18:51.050 [main] DEBUG nextflow.Session - Adding to the classpath library: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/lib
+Aug-01 18:18:51.051 [main] DEBUG nextflow.Session - Adding to the classpath library: /home/kkrishnan/.nextflow/assets/nf-core/rnaseq/lib/nfcore_external_java_deps.jar
+Aug-01 18:18:51.470 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+Aug-01 18:18:51.484 [main] DEBUG nextflow.script.IncludeDef - Loading included plugin extensions with names: [validateParameters:validateParameters, paramsHelp:paramsHelp]; plugin Id: nf-validation
+Aug-01 18:18:51.501 [main] DEBUG nextflow.validation.SchemaValidator - Starting parameters validation
+Aug-01 18:18:51.555 [main] DEBUG nextflow.validation.SchemaValidator - Ignoring validation of S3 URL path 's3://modulome/jayanth/ylipolytica2025/sequences/W29.gff'
+Aug-01 18:18:51.555 [main] DEBUG nextflow.validation.SchemaValidator - Ignoring validation of S3 URL path 's3://modulome/jayanth/ylipolytica2025/sequences/W29.fna'
+Aug-01 18:18:51.555 [main] DEBUG nextflow.validation.SchemaValidator - Ignoring validation of S3 URL path 's3://modulome/jayanth/ylipolytica2025/08_02_2025/inputs/samples.csv'
+Aug-01 18:18:51.624 [main] WARN  nextflow.validation.SchemaValidator - The following invalid input values have been detected:
 
 * --awsqueue: ylipolytica_rnaseq_jayanth
 * --awsregion: us-east-2
+* --resume: true
 * --tracedir: ./
 * --executor: awsbatch
 * --queue: ylipolytica_rnaseq_jayanth
 
 
-Aug-01 17:19:24.590 [main] DEBUG n.validation.FilePathValidator - S3 paths are not supported by 'FilePathValidator': 's3://modulome/jayanth/ylipolytica2025/08_02_2025/inputs/samples.csv'
-Aug-01 17:19:24.593 [main] DEBUG n.validation.DirectoryPathValidator - S3 paths are not supported by 'DirectoryPathValidator': 's3://modulome/jayanth/ylipolytica2025/08_02_2025/outputs/'
-Aug-01 17:19:24.594 [main] DEBUG n.validation.FilePathValidator - S3 paths are not supported by 'FilePathValidator': 's3://modulome/jayanth/ylipolytica2025/sequences/W29.gff'
-Aug-01 17:19:24.594 [main] DEBUG n.validation.FilePathValidator - S3 paths are not supported by 'FilePathValidator': 's3://modulome/jayanth/ylipolytica2025/sequences/W29.fna'
-Aug-01 17:19:24.595 [main] DEBUG n.validation.DirectoryPathValidator - S3 paths are not supported by 'DirectoryPathValidator': 's3://ngi-igenomes/igenomes'
-Aug-01 17:19:24.604 [main] DEBUG nextflow.validation.SchemaValidator - Starting validation: 'input': '/modulome/jayanth/ylipolytica2025/08_02_2025/inputs/samples.csv' with '/home/kkrishnan/.nextflow/assets/nf-core/rnaseq/assets/schema_input.json'
-Aug-01 17:19:24.737 [main] DEBUG nextflow.Session - Session aborted -- Cause: Empty header columns are not allowed in CSV file
-Aug-01 17:19:24.747 [main] ERROR nextflow.cli.Launcher - @unknown
-java.lang.IllegalStateException: Empty header columns are not allowed in CSV file
-	at nextflow.splitter.CsvSplitter.parseHeader(CsvSplitter.groovy:141)
-	at nextflow.splitter.CsvSplitter.process(CsvSplitter.groovy:123)
-	at nextflow.splitter.CsvSplitter.process(CsvSplitter.groovy)
-	at nextflow.splitter.AbstractSplitter.apply(AbstractSplitter.groovy:154)
-	at nextflow.splitter.AbstractSplitter.list(AbstractSplitter.groovy:367)
-	at nextflow.splitter.SplitterEx.splitCsv(SplitterEx.groovy:60)
-	at nextflow.validation.SchemaValidator.validateParameters(SchemaValidator.groovy:441)
+Aug-01 18:18:51.631 [main] DEBUG n.validation.FilePathValidator - S3 paths are not supported by 'FilePathValidator': 's3://modulome/jayanth/ylipolytica2025/08_02_2025/inputs/samples.csv'
+Aug-01 18:18:51.633 [main] DEBUG n.validation.DirectoryPathValidator - S3 paths are not supported by 'DirectoryPathValidator': 's3://modulome/jayanth/ylipolytica2025/08_02_2025/outputs/'
+Aug-01 18:18:51.634 [main] DEBUG n.validation.FilePathValidator - S3 paths are not supported by 'FilePathValidator': 's3://modulome/jayanth/ylipolytica2025/sequences/W29.gff'
+Aug-01 18:18:51.634 [main] DEBUG n.validation.FilePathValidator - S3 paths are not supported by 'FilePathValidator': 's3://modulome/jayanth/ylipolytica2025/sequences/W29.fna'
+Aug-01 18:18:51.634 [main] DEBUG n.validation.DirectoryPathValidator - S3 paths are not supported by 'DirectoryPathValidator': 's3://ngi-igenomes/igenomes'
+Aug-01 18:18:51.642 [main] ERROR nextflow.validation.SchemaValidator - ERROR: Validation of pipeline parameters failed!
+Aug-01 18:18:51.648 [main] DEBUG nextflow.Session - Session aborted -- Cause: [0;31mThe following invalid input values have been detected:
+
+You used a core Nextflow option with two hyphens: '--resume'. Please resubmit with '-resume'
+[0m
+
+Aug-01 18:18:51.662 [main] DEBUG nextflow.cli.Launcher - Operation aborted
+nextflow.validation.SchemaValidationException: [0;31mThe following invalid input values have been detected:
+
+You used a core Nextflow option with two hyphens: '--resume'. Please resubmit with '-resume'
+[0m
+
+	at nextflow.validation.SchemaValidator.validateParameters(SchemaValidator.groovy:392)
 	at nextflow.validation.SchemaValidator.validateParameters(SchemaValidator.groovy)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
