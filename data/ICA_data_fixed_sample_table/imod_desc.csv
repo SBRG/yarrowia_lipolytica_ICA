@@ -1,0 +1,43 @@
+iModulon ,iModulon Name,Descriptors,COGs,Category
+23,DAL81,Ammonia degradation/Nitrogen related,E (Amino acid transport),Metabolism
+14,UC1,Contains some sugar related proteins?,S (Unknown),Uncharacterized
+0,FDH,Formate Dehydrogenase,C (Energy Production and Conversion),Energy
+36,UC19,N.A,N.A,N.A
+30,ADR1,CRP like - non glucose carbon metabolism,Q (Catabolism),Metabolism
+18,UC2,N.A,S (Unknown),Uncharacterized
+19,SWI5,D (Cell cycle control),D (Cell cycle control),Cell division
+26,UC3,N.A,G(Carbohydrate transport and metabolism),Uncharacterized
+6,UC4,N.A,S (Unknown),Uncharacterized
+5,UC5,N.A,"O (Post translation mods, chaperons)",Uncharacterized
+3,UC20,N.A,N.A,N.A
+7,UC6,N.A,C (Energy Production and Conversion),Uncharacterized
+15,UC8,N.A,S (Unknown),Uncharacterized
+21,HSP1,Heat shock protein subunits,S (Unknown),Stress
+35,UC9,N.A,S (Unknown),Uncharacterized
+11,MET32,Methionine biosynthesis,E (Amino acid transport),Metabolism
+1,FKH2,chromatin regulation,A (RNA processing and modification),Cell division
+12,UC10,N.A,Q (Catabolism),
+2,Zrt_Ftr,"ZRT/FTR (Zinc, iron transporters)",S (Unknown),Transport
+27,UC11,N.A,- (Unknown),Uncharacterized
+33,CAT8,CRP like - non glucose carbon metabolism,"C, G (Catabolism)",Metabolism
+29,GCN4,Amino acid biosynthesis,E (Amino acid transport),Metabolism
+28,UC12,N.A,G(Carbohydrate transport and metabolism),Uncharacterized
+38,IFH1,Ribsomal,J (Translation/Ribosomal),Translation
+20,UC13,N.A,"O (Post translation mods, chaperons)",Uncharacterized
+34,MBP1,Cell phase related regulation,"L ( Replication, Recombination, Repair)",Cell division
+22,UC14,N.A,"P, H (Ion, Cofactor transport)",Transport
+17,UC15,N.A,S (Unknown),Uncharacterized
+16,RTG3,Mitochondrial retrograde,"S (Unknown), E(Amino acid transport)",Stress
+13,FeRd,Iron reductae/Iron related,S(Unknown),Energy
+8,HOT1,Osmolarity related glycerol biosynthesis,S(Unknown),Stress
+31,UC16,N.A,"A(RNA processing), E (Amino acid transport)",Uncharacterized
+10,RME,RME1?,S (Unknown),Cell division
+39,UC17,N.A,E (Amino acid transport),Transport
+32,HSP2,Heat shock protein subunits,"S(Unknown), G(Catabolism)",Stress
+40,UC18,N.A,"G(Carbohydrate transport and metabolism), T(Signal transduction)",Uncharacterized
+4,HSP3,Heat shock protein subunits,N.A,Stress
+9,UC21,N.A,N.A,Uncharacterized
+24,UC22,N.A,N.A,Uncharacterized
+25,UC23,N.A,N.A,Uncharacterized
+37,UC24,N.A,N.A,Uncharacterized
+41,UC25,N.A,N.A,Uncharacterized
